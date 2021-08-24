@@ -1,0 +1,10 @@
+#root > .MuiGrid-root.MuiGrid-container {
+  height: 100%;
+  padding-left: 0;
+}
+@media screen and (max-width: 960px) {
+  body {
+    min-width: auto !important;
+    overflow: auto;
+  }
+}

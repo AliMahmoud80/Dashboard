@@ -1,0 +1,24 @@
+.date-range-picker {
+  border: 1px solid #edebe9;
+  border-radius: 8px;
+  padding: 0;
+  padding-left: 12px;
+}
+.ant-picker-suffix,
+.ant-picker-clear {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f1f1f1;
+  height: 100%;
+  border-radius: 0 8px 8px 0;
+  color: #666;
+}
+.ant-picker-suffix {
+  width: 90px;
+}
+.ant-picker-clear {
+  height: 98%;
+  width: 40px;
+  right: 0 !important;
+}
